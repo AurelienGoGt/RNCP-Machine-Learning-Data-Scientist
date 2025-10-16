@@ -154,16 +154,6 @@ Ce repository regroupe mes projets réalisés durant le parcours **Data Scientis
 
 ---
 
-<h2 align="center"> 🧾 Journal de versions </h2>
-
-| Étape | Date | Description | Statut |
-|--------|------|--------------|--------|
-| **v1.0** | Oct 2025 | Création du dépôt, ajout de la structure et du plan de formation. | ✅ Terminé |
-| **v1.1** | — | Ajout des notebooks et rapports pour les premiers projets. | 🔜 En cours |
-| **v1.2** | — | Optimisation des projets : amélioration du code et visualisations. | 🚧 À venir |
-
----
-
 <h2 align="center"> 🧰 Stack technique utilisée : </h2>
 
 | Domaine | Outils clés |
@@ -173,6 +163,5 @@ Ce repository regroupe mes projets réalisés durant le parcours **Data Scientis
 | Deep Learning | TensorFlow, Keras |
 | Data Visualisation | Matplotlib, Seaborn, Plotly, Yellowbricks |
 | Outils | Jupyter notebook, VS Code, GitHub, google colab |
-| Collaboration & Gestion | Git |
 
 ---
