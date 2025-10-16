@@ -1,4 +1,4 @@
-<h1 align="center"> 🍎 Projet 2 : Santé publique France : Analyse & Idée d’Application à partir du jeu de données Open Food Facts </h1>
+<h1 align="center"> 🍎 Projet 2 : Concevez une application au service de la santé publique </h1>
 
 > 🧠 *« Mieux comprendre les données alimentaires pour mieux nourrir demain. »*
 
